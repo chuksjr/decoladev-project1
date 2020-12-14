@@ -1,3 +1,3 @@
-# Instagram login interface
+# Instagram login clone
 
-Landing page developed at Bootcamp HTML Web Developer taught by Digital Innovation One
+Landing page developed at Bootcamp Decola Dev Avanade 2021.
